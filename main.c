@@ -1,5 +1,5 @@
 /*
- Mohammad Ali Dosi
+Sam Dosi
  smoothie.c
  09/12/2021
  
